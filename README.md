@@ -1,2 +1,5 @@
-# fastai_bear_classifier
-Deployable Ai-based classifier to classify grizzly, black and teddy bear
+# bear_voila
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/fastai/bear_voila/master?urlpath=%2Fvoila%2Frender%2Fbear_classifier.ipynb)
+
+Demo bear classifier with fastai and Voila
